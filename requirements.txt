@@ -1,0 +1,10 @@
+streamlit
+openai
+streamlit_js_eval
+geopy
+folium
+streamlit_folium
+PyPDF2
+chromadb
+pysqlite3-binary
+protobuf==3.20
