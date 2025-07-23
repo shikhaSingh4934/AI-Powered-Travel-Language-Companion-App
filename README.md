@@ -56,6 +56,7 @@ AI-Powered-Travel-Language-Companion-App/
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
 ```
+[View the project presentation (PDF)](Presentation.pdf)
 
 
 
